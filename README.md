@@ -1,2 +1,3 @@
 # Hello-World
-//testing.test.test
+Hi! I'm Addie.
+I am attempting to actually learn how to code - starting with Java. 
